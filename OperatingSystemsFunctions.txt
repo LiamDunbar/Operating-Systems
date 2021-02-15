@@ -1,0 +1,1 @@
+1 - Managing the computer's resources. This includes the CPU, volatile and nonvolatile memory (HDD/SDD/GPU). It controls the prioritization of memory, or where the memory should be allocated to. In order to allocate memory efficiently it also has to keep the data organized. 
